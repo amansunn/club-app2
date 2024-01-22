@@ -1,0 +1,59 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "signupUsers": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    },
+    {
+      "id": "ee61",
+      "fullname": "jov",
+      "email": "job@gmail.com",
+      "password": "123",
+      "mobile": 98888
+    },
+    {
+      "id": "9990",
+      "fullname": "ready",
+      "email": "reda@gmail.com",
+      "password": "1234",
+      "mobile": 9188888
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "employees": [
+    {
+      "id": "3e97",
+      "firstName": "job",
+      "lastName": "pimp",
+      "email": "job@gmail.com",
+      "dob": "2024-01-15T21:00:00.000Z",
+      "gender": "male",
+      "education": "Post Graduate",
+      "company": "google",
+      "experience": 8,
+      "package": 50
+    },
+    {
+      "firstName": "cheru",
+      "lastName": "jjj",
+      "email": "j@jmail.com",
+      "dob": "2024-01-02T21:00:00.000Z",
+      "gender": "male",
+      "education": "Diploma",
+      "company": "dd",
+      "experience": 3,
+      "package": 123,
+      "id": "eefb"
+    }
+  ]
+}
